@@ -13,5 +13,8 @@
     "chai": "^4.3.7",
     "mocha": "^10.2.0",
     "sinon": "^15.2.0"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
   }
 }
